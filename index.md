@@ -48,8 +48,8 @@
   <img src="./img/map1.jpg">  
   <img src="./img/map2.jpg">  
   <img src="./img/reinforcement.jpg">  
-- 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+- 동영상  
+  [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
 
 <br><br>
 
