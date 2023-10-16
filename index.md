@@ -1,4 +1,4 @@
-# 프로젝트명: 터렛 디펜스(이지훈)  
+![image](https://github.com/Seryu98/Seryu98.github.io/assets/146960182/a84d1250-0c06-4952-9542-60132e8778e0)# 프로젝트명: 터렛 디펜스(이지훈)  
 
 <br>
 
@@ -90,7 +90,8 @@
   <img src="./img/map1.jpg">  
   <img src="./img/map2.jpg">  
   <img src="./img/reinforcement.jpg">  
-- 동영상  
+- 동영상
+<br>
   [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
 </details>
 
