@@ -93,7 +93,6 @@
 <br>
 - 동영상  
   [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
-  
 </details>
 
 <br>
