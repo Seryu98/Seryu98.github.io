@@ -174,33 +174,33 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 |2|보스|보스1_닭|Boss1_chicken|스테이지 5|<img src="./img/chicken.png" width="200" height="200">|
 |3|에너미|에너미2_새|Enemy2_bird|스테이지 6~9|<img src="./img/bird.png" width="200" height="200">|
 |4|보스|보스2_피닉스|Boss2_pheonix|스테이지 10|<img src="./img/pheonix.png" width="200" height="200">|
-|5|에너미|에너미3_양|Enemy3_sheep|스테이지 11~14|<img src="./img/sheep.png" width="100" height="100">|
-|6|보스|보스3_기린|Boss3_kirin|스테이지 15|<img src="./img/kirin.png" width="100" height="100">|
-|7|에너미|에너미4_개|Enemy4_dog|스테이지 16~19|<img src="./img/dog.png" width="100" height="100">|
-|8|보스|보스4_케르베로스|Boss4_cerberus|스테이지 20|<img src="./img/cerberus.png">|
-|9|에너미|에너미5_당나귀|Enemy5_donkey |스테이지 21~24|<img src="./img/donkey.png">|
-|10|보스|보스5_페가수스|Boss5_pegasus|스테이지 25|<img src="./img/pegasus.png">|
-|11|에너미|에너미6_젖소|Enemy6_milkcow|스테이지 26~29|<img src="./img/milkcow.png">|
-|12|보스|보스6_뿔소|Boss6_horncow|스테이지 30|<img src="./img/horncow.png">|
-|13|에너미|에너미7_돼지|Enemy7_pig|스테이지 31~34|<img src="./img/pig.png">|
-|14|보스|보스7_고래|Boss7_whale|스테이지 35|<img src="./img/whale.png">|
-|15|에너미|에너미8_여우|Enemy8_fox|스테이지 36~39|<img src="./img/fox.png">|
-|16|보스|보스8_구미호|Boss8_kitsune|스테이지 40|<img src="./img/kitsune.png">|
-|17|에너미|에너미9_레비아탄|Enemy9_leviathan|스테이지 41~44|<img src="./img/leviathan.png">|
-|18|보스|보스9_동양용|Boss9_dragon1|스테이지 45|<img src="./img/dragon1.png">|
-|19|에너미|에너미10_와이번|Enemy10_wyvern|스테이지 46~49|<img src="./img/wyvern.png">|
-|20|보스|보스10_용|Boss10_dragon2|스테이지 50|<img src="./img/dragon2.png">|
-|21|터렛|기본총알터렛|Basicbullet_Turret|공통|<img src="./img/basicbullet.png">|
-|22|터렛|화염터렛|Fire_Turret|공통|<img src="./img/fire.png">|
-|23|터렛|폭발터렛|Splash_Turret|공통|<img src="./img/splash.png">|
-|24|터렛|독터렛|Poison_Turret|공통|<img src="./img/poison.png">|
-|25|터렛|버프타워|Buff_Tower|공통|<img src="./img/buff.png">|
-|26|UI|재화|Coin|공통|<img src="./img/coin(임시).png">|
-|27|UI|체력|HP|공통|<img src="./img/hp(임시).png">|
-|28|UI|스테이지|Stage|공통|<img src="./img/stage(임시).png">|
-|29|UI|상점|Shop|공통|<img src="./img/shop(임시).png">|
-|30|UI|강화|Reinforce|공통|<img src="./img/reinforce(임시).png">|
-|31|UI|설정|Setting|공통|<img src="./img/setting(임시).png">|
+|5|에너미|에너미3_양|Enemy3_sheep|스테이지 11~14|<img src="./img/sheep.png" width="200" height="200">|
+|6|보스|보스3_기린|Boss3_kirin|스테이지 15|<img src="./img/kirin.png" width="200" height="200">|
+|7|에너미|에너미4_개|Enemy4_dog|스테이지 16~19|<img src="./img/dog.png" width="200" height="200">|
+|8|보스|보스4_케르베로스|Boss4_cerberus|스테이지 20|<img src="./img/cerberus.png" width="200" height="200">|
+|9|에너미|에너미5_당나귀|Enemy5_donkey |스테이지 21~24|<img src="./img/donkey.png" width="200" height="200">|
+|10|보스|보스5_페가수스|Boss5_pegasus|스테이지 25|<img src="./img/pegasus.png" width="200" height="200">|
+|11|에너미|에너미6_젖소|Enemy6_milkcow|스테이지 26~29|<img src="./img/milkcow.png" width="200" height="200">|
+|12|보스|보스6_뿔소|Boss6_horncow|스테이지 30|<img src="./img/horncow.png" width="200" height="200">|
+|13|에너미|에너미7_돼지|Enemy7_pig|스테이지 31~34|<img src="./img/pig.png" width="200" height="200">|
+|14|보스|보스7_고래|Boss7_whale|스테이지 35|<img src="./img/whale.png" width="200" height="200">|
+|15|에너미|에너미8_여우|Enemy8_fox|스테이지 36~39|<img src="./img/fox.png" width="200" height="200">|
+|16|보스|보스8_구미호|Boss8_kitsune|스테이지 40|<img src="./img/kitsune.png" width="200" height="200">|
+|17|에너미|에너미9_레비아탄|Enemy9_leviathan|스테이지 41~44|<img src="./img/leviathan.png" width="200" height="200">|
+|18|보스|보스9_동양용|Boss9_dragon1|스테이지 45|<img src="./img/dragon1.png" width="200" height="200">|
+|19|에너미|에너미10_와이번|Enemy10_wyvern|스테이지 46~49|<img src="./img/wyvern.png" width="200" height="200">|
+|20|보스|보스10_용|Boss10_dragon2|스테이지 50|<img src="./img/dragon2.png" width="200" height="200">|
+|21|터렛|기본총알터렛|Basicbullet_Turret|공통|<img src="./img/basicbullet.png" width="200" height="200">|
+|22|터렛|화염터렛|Fire_Turret|공통|<img src="./img/fire.png" width="200" height="200">|
+|23|터렛|폭발터렛|Splash_Turret|공통|<img src="./img/splash.png" width="200" height="200">|
+|24|터렛|독터렛|Poison_Turret|공통|<img src="./img/poison.png" width="200" height="200">|
+|25|터렛|버프타워|Buff_Tower|공통|<img src="./img/buff.png" width="200" height="200">|
+|26|UI|재화|Coin|공통|<img src="./img/coin(임시).png" width="200" height="200">|
+|27|UI|체력|HP|공통|<img src="./img/hp(임시).png" width="200" height="200">|
+|28|UI|스테이지|Stage|공통|<img src="./img/stage(임시).png" width="200" height="200">|
+|29|UI|상점|Shop|공통|<img src="./img/shop(임시).png" width="200" height="200">|
+|30|UI|강화|Reinforce|공통|<img src="./img/reinforce(임시).png" width="200" height="200">|
+|31|UI|설정|Setting|공통|<img src="./img/setting(임시).png" width="200" height="200">|
 </details>  
 
 <br>
