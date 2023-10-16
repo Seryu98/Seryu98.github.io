@@ -90,7 +90,7 @@
   <img src="./img/reinforcement.jpg">  
 - 동영상
 <br>
-  [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
+  [![Video Label](http://img.youtube.com/vi/n72JYDLRSZI/0.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
 
 
 <br>
