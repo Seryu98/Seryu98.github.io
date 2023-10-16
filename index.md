@@ -17,6 +17,8 @@
 [4. 구성 요소 분석](#4-구성-요소-분석)  
   &nbsp;&nbsp;&nbsp;&nbsp;\* 게임 오브젝트 분해  
   &nbsp;&nbsp;&nbsp;&nbsp;\* 파라미터(속성) 뽑아 보기   
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 행동 뽑아 보기   
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 상태 뽑아 보기   
 <br>
 
 # 1. 컨셉  
@@ -269,3 +271,4 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
+[맨위로](#)
