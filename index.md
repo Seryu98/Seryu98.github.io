@@ -86,13 +86,13 @@
 <summary>이미지 접기/펼치기</summary>  
 
 - 이미지
-  <br>
+<br>
   <img src="./img/map1.jpg">  
   <img src="./img/map2.jpg">  
   <img src="./img/reinforcement.jpg">
-  <br>
+<br>
 - 동영상
-  <br>
+<br>
   [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)  
 </details>
 
