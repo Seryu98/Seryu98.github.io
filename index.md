@@ -85,7 +85,7 @@
 <details>  
 <summary>이미지 접기/펼치기</summary>  
 
-- 이미지
+- 이미지  
   <img src="./img/map1.jpg">  
   <img src="./img/map2.jpg">  
   <img src="./img/reinforcement.jpg">  
