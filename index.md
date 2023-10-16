@@ -73,7 +73,7 @@
 
 <br>
 
-[Default Button](#){: .btn .btn--primary }
+[맨위로](#)
 
 <br><br>
 
