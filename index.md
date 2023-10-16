@@ -82,9 +82,7 @@
 # 2. 이미지  
 
 ## 관련 이미지와 동영상  
-<details>
-<summary>이미지 접기/펼치기</summary>
-  
+
 - 이미지
 <br>
   <img src="./img/map1.jpg">  
@@ -93,7 +91,7 @@
 - 동영상
 <br>
   [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
-</details>
+
 
 <br>
 
