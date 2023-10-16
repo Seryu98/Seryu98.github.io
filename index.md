@@ -86,32 +86,20 @@
 # 2. 이미지  
 
 ## 관련 이미지와 동영상  
-<details>  
-<summary>이미지 접기/펼치기</summary>  
 
 - 이미지  
   <img src="./img/map1.jpg">
-  
   <img src="./img/map2.jpg">  
-  
-  <br>
-  
-  <img src="./img/reinforcement.jpg">  
-  
-  <br>
-  
+  <img src="./img/reinforcement.jpg">
+
 - 동영상  
-  [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)  
-</details>
+  [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
 
 <br>
 
 ## 대표 이미지  
-<details>
-<summary>이미지 접기/펼치기</summary>
 
-<img src="./img/main.png">
-</details>
+<img src="./img/main.png">  
 
 <br>
 
