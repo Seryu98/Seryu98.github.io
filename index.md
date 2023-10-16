@@ -87,6 +87,10 @@
 
 ## 관련 이미지와 동영상  
 
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
 - 이미지  
   <img src="./img/map1.jpg">
   <img src="./img/map2.jpg">  
@@ -95,11 +99,21 @@
 - 동영상  
   [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
 
+</div>
+</details>
+
 <br>
 
 ## 대표 이미지  
 
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
 <img src="./img/main.png">  
+
+</div>
+</details>
 
 <br>
 
