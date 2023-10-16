@@ -89,7 +89,7 @@
 <br>
   <img src="./img/map1.jpg">  
   <img src="./img/map2.jpg">  
-  <img src="./img/reinforcement.jpg">
+  <img src="./img/reinforcement.jpg">  
 <br>
 - 동영상
 <br>
