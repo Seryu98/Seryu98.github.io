@@ -122,9 +122,37 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 ## 게임 오브젝트 분해   
 
-|연번|오브젝트 이름|오브젝트 이미지|
-|:----:|:----:|:----:|
-|1|축구장|<img src="./img/축구장.png" width="500">|
-|2|골대|<img src="./img/골대.png" width="500">|
-|3|홍길동선수|<img src="./img/홍길동선수.png" height="300">|
-|4|골킵|<img src="./img/골킵.png" height="300">|
+|연번|종류|오브젝트 이름|오브젝트 영문명|사용처|오브젝트 이미지|
+|:----:|:----:|:----:|:----:|:----:|:----:|
+|1|에너미|에너미1_병아리|Enemy1_chick|스테이지 1~4|<img src="./img/.png" width="500">|
+|2|보스|보스1_닭|Boss1_chicken|스테이지 5|<img src="./img/.png" width="500">|
+|3|에너미|에너미2_새|Enemy2_bird|스테이지 6~9|<img src="./img/.png" height="300">|
+|4|보스|보스2_피닉스|Boss2_pheonix|스테이지 10|<img src="./img/.png" height="300">|
+|5|에너미|에너미3_양|Enemy3_sheep|스테이지 11~14|<img src="./img/.png" height="300">|
+|6|보스|보스3_기린|Boss3_kirin|스테이지 15|<img src="./img/.png" height="300">|
+|7|에너미|에너미4_개|Enemy4_dog|스테이지 16~19|<img src="./img/.png" height="300">|
+|8|보스|보스4_케르베로스|Boss4_cerberus|스테이지 20|<img src="./img/.png" height="300">|
+|9|에너미|에너미5_당나귀|Enemy5_donkey |스테이지 21~24|<img src="./img/.png" height="300">|
+|10|보스|보스5_페가수스|Boss5_pegasus|스테이지 25|<img src="./img/.png" height="300">|
+|11|에너미|에너미6_젖소|Enemy6_milkcow|스테이지 26~29|<img src="./img/.png" height="300">|
+|12|보스|보스6_뿔소|Boss6_horncow|스테이지 30|<img src="./img/.png" height="300">|
+|13|에너미|에너미7_돼지|Enemy7_pig|스테이지 31~34|<img src="./img/.png" height="300">|
+|14|보스|보스7_고래|Boss7_whale|스테이지 35|<img src="./img/.png" height="300">|
+|15|에너미|에너미8_여우|Enemy8_fox|스테이지 36~39|<img src="./img/.png" height="300">|
+|16|보스|보스8_구미호|Boss8_kitsune|스테이지 40|<img src="./img/.png" height="300">|
+|17|에너미|에너미9_레비아탄|Enemy9_leviathan|스테이지 41~44|<img src="./img/.png" height="300">|
+|18|보스|보스9_동양용|Boss9_dragon2|스테이지 45|<img src="./img/.png" height="300">|
+|19|에너미|에너미10_와이번|Enemy10_wyvern|스테이지 46~49|<img src="./img/.png" height="300">|
+|20|보스|보스10_용|Boss10_dragon2|스테이지 50|<img src="./img/.png" height="300">|
+|21|터렛|기본총알터렛|Basicbullet_Turret|공통|<img src="./img/.png" height="300">|
+|22|터렛|화염터렛|Fire_Turret|공통|<img src="./img/.png" height="300">|
+|23|터렛|폭발터렛|Splash_Turret|공통|<img src="./img/.png" height="300">|
+|24|터렛|독터렛|Poison_Turret|공통|<img src="./img/.png" height="300">|
+|25|터렛|버프타워|Buff_Tower|공통|<img src="./img/.png" height="300">|
+|26|UI|재화|Coin|공통|<img src="./img/.png" height="300">|
+|27|UI|체력|HP|공통|<img src="./img/.png" height="300">|
+|28|UI|스테이지|Stage|공통|<img src="./img/.png" height="300">|
+|29|UI|상점|Shop|공통|<img src="./img/.png" height="300">|
+|30|UI|강화|Reinforce|공통|<img src="./img/.png" height="300">|
+|31|UI|설정|Setting|공통|<img src="./img/.png" height="300">|
+
