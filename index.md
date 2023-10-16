@@ -163,8 +163,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <details>
 <summary>접기/펼치기 버튼</summary>
-
-<br>
+<div markdown="1">
 
 |연번|종류|오브젝트 이름|오브젝트 영문명|사용처|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|:----:|:----:|
@@ -198,8 +197,9 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 |28|UI|스테이지|Stage|공통|<img src="./img/stage(임시).png" width="200" height="200">|
 |29|UI|상점|Shop|공통|<img src="./img/shop(임시).png" width="200" height="200">|
 |30|UI|강화|Reinforce|공통|<img src="./img/reinforce(임시).png" width="200" height="200">|
-|31|UI|설정|Setting|공통|<img src="./img/setting(임시).png" width="200" height="200">| 
+|31|UI|설정|Setting|공통|<img src="./img/setting(임시).png" width="200" height="200">|
 
+</div>
 </details>
 
 <br>
