@@ -182,7 +182,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 |29|UI|상점|Shop|공통|<img src="./img/shop(임시).png">|
 |30|UI|강화|Reinforce|공통|<img src="./img/reinforce(임시).png">|
 |31|UI|설정|Setting|공통|<img src="./img/setting(임시).png">|
-<details>
+
 <br>
 
 ## 파라미터(속성) 뽑아 보기
