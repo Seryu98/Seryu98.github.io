@@ -164,8 +164,6 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 # 4. 구성 요소 분석  
 
 ## 게임 오브젝트 분해  
-
----글---
 <details>  
 <summary>표 접기/펼치기</summary>  
 
@@ -203,8 +201,6 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 |30|UI|강화|Reinforce|공통|<img src="./img/reinforce(임시).png" width="200" height="200">|
 |31|UI|설정|Setting|공통|<img src="./img/setting(임시).png" width="200" height="200">|
 </details>  
-
----글---
 
 <br>
 
