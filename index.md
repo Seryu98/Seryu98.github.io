@@ -8,13 +8,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;\* 관련 이미지와 동영상  
   &nbsp;&nbsp;&nbsp;&nbsp;\* 대표 이미지  
 [3. 터렛 디펜스 구성 요소](#3-터렛-디펜스-구성-요소)  
-  3-1. 메커니즘  
-  3-2. 이야기  
-  3-3. 미적요소  
-  3-4. 기술  
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 메커니즘  
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 이야기  
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 미적요소  
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 기술  
 [4. 구성 요소 분석](#4-구성-요소-분석)  
-  4-1. 게임 오브젝트 분해  
-  4-2. 파라미터(속성) 뽑아 보기   
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 게임 오브젝트 분해  
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 파라미터(속성) 뽑아 보기   
 <br>
 
 # 1. 컨셉  
