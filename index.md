@@ -3,9 +3,9 @@
 <br>
 
 # 목차  
-[1. 컨셉](#1-컨셉) 
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 메인 컨셉
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 서브 컨셉
+[1. 컨셉](#1-컨셉)  
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 메인 컨셉  
+  &nbsp;&nbsp;&nbsp;&nbsp;\* 서브 컨셉  
 [2. 이미지](#2-이미지)  
   &nbsp;&nbsp;&nbsp;&nbsp;\* 관련 이미지와 동영상  
   &nbsp;&nbsp;&nbsp;&nbsp;\* 대표 이미지  
