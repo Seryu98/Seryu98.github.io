@@ -163,20 +163,20 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 # 4. 구성 요소 분석  
 
-## 게임 오브젝트 분해 
+## 게임 오브젝트 분해  
 
-<details>
-<summary>표 접기/펼치기</summary>
-  
+<details>  
+<summary>표 접기/펼치기</summary>  
+
 |연번|종류|오브젝트 이름|오브젝트 영문명|사용처|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|1|에너미|에너미1_병아리|Enemy1_chick|스테이지 1~4|<img src="./img/chick.png">|
-|2|보스|보스1_닭|Boss1_chicken|스테이지 5|<img src="./img/chicken.png">|
-|3|에너미|에너미2_새|Enemy2_bird|스테이지 6~9|<img src="./img/bird.png">|
-|4|보스|보스2_피닉스|Boss2_pheonix|스테이지 10|<img src="./img/pheonix.png">|
-|5|에너미|에너미3_양|Enemy3_sheep|스테이지 11~14|<img src="./img/sheep.png">|
-|6|보스|보스3_기린|Boss3_kirin|스테이지 15|<img src="./img/kirin.png">|
-|7|에너미|에너미4_개|Enemy4_dog|스테이지 16~19|<img src="./img/dog.png">|
+|1|에너미|에너미1_병아리|Enemy1_chick|스테이지 1~4|<img src="./img/chick.png" width="100" height="100">|
+|2|보스|보스1_닭|Boss1_chicken|스테이지 5|<img src="./img/chicken.png" width="100" height="100">|
+|3|에너미|에너미2_새|Enemy2_bird|스테이지 6~9|<img src="./img/bird.png" width="100" height="100">|
+|4|보스|보스2_피닉스|Boss2_pheonix|스테이지 10|<img src="./img/pheonix.png" width="100" height="100">|
+|5|에너미|에너미3_양|Enemy3_sheep|스테이지 11~14|<img src="./img/sheep.png" width="100" height="100">|
+|6|보스|보스3_기린|Boss3_kirin|스테이지 15|<img src="./img/kirin.png" width="100" height="100">|
+|7|에너미|에너미4_개|Enemy4_dog|스테이지 16~19|<img src="./img/dog.png" width="100" height="100">|
 |8|보스|보스4_케르베로스|Boss4_cerberus|스테이지 20|<img src="./img/cerberus.png">|
 |9|에너미|에너미5_당나귀|Enemy5_donkey |스테이지 21~24|<img src="./img/donkey.png">|
 |10|보스|보스5_페가수스|Boss5_pegasus|스테이지 25|<img src="./img/pegasus.png">|
