@@ -1,4 +1,4 @@
-![image](https://github.com/Seryu98/Seryu98.github.io/assets/146960182/a84d1250-0c06-4952-9542-60132e8778e0)# 프로젝트명: 터렛 디펜스(이지훈)  
+# 프로젝트명: 터렛 디펜스(이지훈)  
 
 <br>
 
