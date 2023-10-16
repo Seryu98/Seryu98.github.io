@@ -4,21 +4,25 @@
 
 # 목차  
 [1. 컨셉](#1-컨셉)  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 메인 컨셉  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 서브 컨셉  
++ 메인 컨셉  
++ 서브 컨셉
+
 [2. 이미지](#2-이미지)  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 관련 이미지와 동영상  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 대표 이미지  
++ 관련 이미지와 동영상  
++ 대표 이미지
+
 [3. 터렛 디펜스 구성 요소](#3-터렛-디펜스-구성-요소)  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 메커니즘  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 이야기  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 미적요소  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 기술  
++ 메커니즘  
++ 이야기  
++ 미적요소  
++ 기술
+
 [4. 구성 요소 분석](#4-구성-요소-분석)  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 게임 오브젝트 분해  
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 파라미터(속성) 뽑아 보기   
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 행동 뽑아 보기   
-  &nbsp;&nbsp;&nbsp;&nbsp;\* 상태 뽑아 보기   
++ 게임 오브젝트 분해  
++ 파라미터(속성) 뽑아 보기   
++ 행동 뽑아 보기   
++ 상태 뽑아 보기
+
 <br>
 
 # 1. 컨셉  
