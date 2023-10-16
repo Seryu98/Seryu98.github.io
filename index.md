@@ -202,9 +202,9 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
-## 파라미터(속성) 뽑아 보기
+## 파라미터(속성) 뽑아 보기  
 
-오브젝트 이름 : Basicbullet_Turret, Fire_Turret, Splash_Turret, Poison_Turret, Buff_Tower
+오브젝트 이름 : Basicbullet_Turret, Fire_Turret, Splash_Turret, Poison_Turret, Buff_Tower  
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
 |공격력|Turret_Atk|터렛의 공격력||
@@ -214,7 +214,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
-오브젝트 이름 : Enemy1\~10, Boss1\~10
+오브젝트 이름 : Enemy1\~10, Boss1\~10  
 |속성|영문명칭|설명|비고|
 |:----:|:----:|:----:|:----:|
 |체력|Enemy(Boss)_Hp|각 몬스터와 보스의 체력 수치||
@@ -223,9 +223,9 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
-## 행동 뽑아 보기
+## 행동 뽑아 보기  
 
-오브젝트 이름 : Basicbullet_Turret, Fire_Turret, Splash_Turret, Poison_Turret, Buff_Tower
+오브젝트 이름 : Basicbullet_Turret, Fire_Turret, Splash_Turret, Poison_Turret, Buff_Tower  
 |행동|설명|
 |:----:|:----:|
 |조준|몬스터가 터렛 범위에 들어오면 몬스터의 위치 방향으로 머리가 돌아감|
@@ -235,7 +235,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
-오브젝트 이름 : Enemy1\~10, Boss1\~10
+오브젝트 이름 : Enemy1\~10, Boss1\~10  
 |행동|설명|
 |:----:|:----:|
 |스테이지|스테이지 별로 지정된 수량의 각기 다른 몬스터가 나옴|
@@ -244,7 +244,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
-오브젝트 이름 : HP
+오브젝트 이름 : HP  
 |행동|설명|
 |:----:|:----:|
 |줄어듬|몬스터가 웨이포인트 마지막 지점에 도달하면 최대 hp에서 숫자가 줄어듬|
@@ -252,9 +252,9 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
-## 상태 뽑아 보기
+## 상태 뽑아 보기  
 
-오브젝트 이름 : Basicbullet_Turret, Fire_Turret, Splash_Turret, Poison_Turret, Buff_Tower
+오브젝트 이름 : Basicbullet_Turret, Fire_Turret, Splash_Turret, Poison_Turret, Buff_Tower  
 |현상태|전이상태|전이조건|
 |:----:|:----:|:----:|
 |정상상태|버프상태|버프 타워 반경 안에 설치되어 있을 경우|
@@ -263,7 +263,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
-오브젝트 이름 : Enemy1\~10, Boss1\~10
+오브젝트 이름 : Enemy1\~10, Boss1\~10  
 |현상태|전이상태|전이조건|
 |:----:|:----:|:----:|
 |정상상태|부상상태|독 터렛에 피격 시 도트 데미지가 들어온다|
