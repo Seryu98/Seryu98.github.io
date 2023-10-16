@@ -61,7 +61,9 @@
   <img src="./img/map2.jpg">  
   <img src="./img/reinforcement.jpg">  
 - 동영상  
-  [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)  
+  [![](./img/map3.jpg)](https://www.youtube.com/watch?v=n72JYDLRSZI)
+
+<br>
 
 ## 대표 이미지  
 
