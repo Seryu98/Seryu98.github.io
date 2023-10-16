@@ -145,7 +145,9 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 # 4. 구성 요소 분석  
 
 ## 게임 오브젝트 분해   
-
+<details>
+<summary>접기/펼치기<\summary>
+  
 |연번|종류|오브젝트 이름|오브젝트 영문명|사용처|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |1|에너미|에너미1_병아리|Enemy1_chick|스테이지 1~4|<img src="./img/chick.png">|
@@ -179,7 +181,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 |29|UI|상점|Shop|공통|<img src="./img/shop(임시).png">|
 |30|UI|강화|Reinforce|공통|<img src="./img/reinforce(임시).png">|
 |31|UI|설정|Setting|공통|<img src="./img/setting(임시).png">|
-
+<details>
 <br>
 
 ## 파라미터(속성) 뽑아 보기
