@@ -397,5 +397,64 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 
 <br>
 
+[맨위로](#)
+
+<br>
+
 ## 시간별 흐름도 flowchart  
 
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+<img src="./img/시간별 흐름도 플로우 차트.png">
+
+</div>
+</details>
+
+<br>
+
+[맨위로](#)
+
+<br>
+
+## 키보드 이벤트에 대한 흐름도  
+
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+<img src="./img/키보드 이벤트에 대한 흐름도.png">
+
+</div>
+</details>
+
+<br>
+
+[맨위로](#)
+
+<br>
+
+## 용어정리  
+
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+<img src="./img/용어정리표.png">
+
+</div>
+</details>
+
+<br>
+
+[맨위로](#)
+
+<br><br>
+
+# 9. 스토리보드  
+
+
+<br>
+
+[맨위로](#)
