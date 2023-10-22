@@ -441,7 +441,7 @@ Unity를 이용해 개발. 플레이 시 마우스 만으로도 플레이 할 �
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
 
-<img src="./img/용어정리표.png">
+<img src="./img/용어정리 표.png">
 
 </div>
 </details>
