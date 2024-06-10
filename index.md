@@ -20,7 +20,7 @@
 
 [6. 개발 진행 현황](#6-개발-진행-현황)  
 
-[7. ]
+[7. 구현 영상](#7-구현-영상)  
 
 <br>
 
@@ -295,7 +295,8 @@
 
 # 7. 구현 영상  
 
-<iframe width="956" height="538" src="https://youtu.be/gmJXMYrA-NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="gmJXMYrA-NM" provider="youtube" %}  
+<iframe width="956" height="538" src="https://youtu.be/gmJXMYrA-NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 <br>
 
