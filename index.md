@@ -20,6 +20,8 @@
 
 [6. 개발 진행 현황](#6-개발-진행-현황)  
 
+[7. ]
+
 <br>
 
 # 1. 프로젝트 소개  
@@ -285,5 +287,18 @@
 ~~8. 판매UI에서 구매금액의 절반가격으로 되팔수 있다.~~ 
 9. 5스테이지 마다 나오는 보스를 클리어 시 원하는 터렛 1회 강화권 제공(무료)(0%)  
 
-[맨위로](#)
 <br>
+
+[맨위로](#)  
+
+<br><br>
+
+# 7. 구현 영상  
+
+<iframe width="956" height="538" src="https://youtu.be/gmJXMYrA-NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+[맨위로](#)
+
+<br><br>
