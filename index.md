@@ -295,8 +295,7 @@
 
 # 7. 구현 영상  
 
-{% include video id="gmJXMYrA-NM" provider="youtube" %}  
-<iframe width="956" height="538" src="https://youtu.be/gmJXMYrA-NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[![Video Label](http://img.youtube.com/vi/gmJXMYrA-NM/0.jpg)](https://youtu.be/gmJXMYrA-NM)
 
 <br>
 
