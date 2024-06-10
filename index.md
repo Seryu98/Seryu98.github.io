@@ -52,7 +52,7 @@
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
 
-<img src="./img/main.png">  
+<img src="./img/main_img.jpg">  
 
 </div>
 </details>
