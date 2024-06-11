@@ -95,11 +95,11 @@
 |18|보스|보스9_동양용|Boss9_dragon1|스테이지 45|<img src="./img/dragon1.png" width="200" height="200">|
 |19|에너미|에너미10_와이번|Enemy10_wyvern|스테이지 46~49|<img src="./img/wyvern.png" width="200" height="200">|
 |20|보스|보스10_용|Boss10_dragon2|스테이지 50|<img src="./img/dragon2.png" width="200" height="200">|
-|21|터렛|기본총알터렛|Basicbullet_Turret|공통|<img src="./img/basicbullet.png" width="200" height="200">|
-|22|터렛|화염터렛|Fire_Turret|공통|<img src="./img/fire.png" width="200" height="200">|
-|23|터렛|폭발터렛|Splash_Turret|공통|<img src="./img/splash.png" width="200" height="200">|
-|24|터렛|독터렛|Poison_Turret|공통|<img src="./img/poison.png" width="200" height="200">|
-|25|터렛|버프타워|Buff_Tower|공통|<img src="./img/buff.png" width="200" height="200">|
+|21|터렛|기본총알터렛|Basicbullet_Turret|공통|<img src="./img/standard_turret.png" width="200" height="200">|
+|22|터렛|화염터렛|Fire_Turret|공통|<img src="./img/fire_turret.png" width="200" height="200">|
+|23|터렛|폭발터렛|Splash_Turret|공통|<img src="./img/splash_turret.png" width="200" height="200">|
+|24|터렛|독터렛|Poison_Turret|공통|<img src="./img/field_turret.png" width="200" height="200">|
+|25|터렛|버프타워|Buff_Tower|공통|<img src="./img/buff_turret.png" width="200" height="200">|
 
 </div>
 </details>
