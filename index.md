@@ -100,12 +100,6 @@
 |23|터렛|폭발터렛|Splash_Turret|공통|<img src="./img/splash.png" width="200" height="200">|
 |24|터렛|독터렛|Poison_Turret|공통|<img src="./img/poison.png" width="200" height="200">|
 |25|터렛|버프타워|Buff_Tower|공통|<img src="./img/buff.png" width="200" height="200">|
-|26|UI|재화|Coin|공통|<img src="./img/coin(임시).png" width="200" height="200">|
-|27|UI|체력|HP|공통|<img src="./img/hp(임시).png" width="200" height="200">|
-|28|UI|스테이지|Stage|공통|<img src="./img/stage(임시).png" width="200" height="200">|
-|29|UI|상점|Shop|공통|<img src="./img/shop(임시).png" width="200" height="200">|
-|30|UI|강화|Reinforce|공통|<img src="./img/reinforce(임시).png" width="200" height="200">|
-|31|UI|설정|Setting|공통|<img src="./img/setting(임시).png" width="200" height="200">|
 
 </div>
 </details>
