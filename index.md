@@ -217,7 +217,7 @@
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
 
-<img src="./img/키보드 이벤트에 대한 흐름도.png">
+<img src="./img/new_keychart.png">
 
 </div>
 </details>
