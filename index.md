@@ -200,7 +200,7 @@
 <summary>접기/펼치기 버튼</summary>
 <div markdown="1">
 
-<img src="./img/시간별 흐름도 플로우 차트.png">
+<img src="./img/new_chart.jpg">
 
 </div>
 </details>
